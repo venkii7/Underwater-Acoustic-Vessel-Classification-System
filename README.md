@@ -188,4 +188,4 @@ To perform inference on a new audio file, use the `infer` mode and provide the p
 python main.py infer --audio_file vessel_detection/validation_data/my_new_audio.wav
 ```
 Replace `/path/to/your/audio.wav` with the actual path to the `.wav` file you want to classify.
-# Underwater-Acoustic-Vessel-Classification-System
+
