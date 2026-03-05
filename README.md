@@ -1,7 +1,7 @@
 # Underwater Acoustic Vessel Classification System
 
 ## Project Overview
-This project aims to build an end-to-end binary audio classification system that determines whether underwater acoustic recordings contain vessel sounds (e.g., ships, boats, propellers, UUVs) or not (non-vessel sounds, such as marine animals, natural ocean sounds, or background noise). This system serves as a foundational component for maritime domain awareness and acoustic monitoring.
+This project aims to build an end-to-end binary audio classification system that determines whether underwater acoustic recordings contain vessel sounds (*e.g., ships, boats, propellers, UUVs*) or not (non-vessel sounds, such as marine animals, natural ocean sounds, or background noise). This system serves as a foundational component for maritime domain awareness and acoustic monitoring.
 
 ## Design Constraints
 The system is engineered with several key constraints to ensure practicality and extensibility:
